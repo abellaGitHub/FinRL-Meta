@@ -1,11 +1,11 @@
 # Requirements
 
 alpaca_trade_api>=2.1.0
-ccxt==1.90.41
+ccxt==1.90.1
 elegantrl
 
 # market data & paper trading API
-exchange_calendars==4.1.1
+exchange_calendars==3.6.3
 gputil==1.4.0
 gym==0.24.1
 jqdatasdk==1.8.10
