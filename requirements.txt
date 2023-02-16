@@ -14,7 +14,7 @@ lz4==4.0.1
 # plot
 matplotlib==3.5.2
 # data handling
-numpy==1.23.1
+numpy==1.21.6
 pandas==1.4.3
 
 # pandas
