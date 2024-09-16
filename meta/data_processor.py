@@ -197,6 +197,7 @@ class DataProcessor:
                         protocol=pickle.HIGHEST_PROTOCOL,
                     )
 
+        self.add_turbulence()
         self.add_technical_indicator(technical_indicator_list, select_stockstats_talib)
         if if_vix:
             self.add_vix()
